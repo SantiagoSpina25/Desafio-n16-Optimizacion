@@ -1,0 +1,8 @@
+[2023-02-23T14:44:30.338] [WARN] warn - GET /hola -- Ruta inexistente
+[2023-02-23T14:44:31.852] [WARN] warn - GET /holamundo -- Ruta inexistente
+[2023-02-23T15:03:54.956] [WARN] warn - GET /info -- Ruta inexistente
+[2023-02-23T15:03:55.429] [WARN] warn - GET /info -- Ruta inexistente
+[2023-02-23T15:14:31.100] [WARN] warn - GET /info -- Ruta inexistente
+[2023-02-23T15:14:45.621] [WARN] warn - GET /info -- Ruta inexistente
+[2023-02-23T15:14:46.976] [WARN] warn - GET /info -- Ruta inexistente
+[2023-02-23T15:14:47.899] [WARN] warn - GET /info -- Ruta inexistente
